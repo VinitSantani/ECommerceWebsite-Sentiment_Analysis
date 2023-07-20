@@ -5,6 +5,9 @@ Also known as Product Review Analysis for Genuine Rating, this project uses web 
 My role in the project:
 
 • Customized a website where product reviews are evaluated and based on the ratings, a product is recommended whether it is worth purchasing. Knowledge of systems engineering practices, the software development life cycle
+
 • Accumulated reviews with positive, negative, or neutral connotations and a sentiment bar representation.
+
 • Executed context-concordance and trained, classified model using Logistic Regression with an accuracy of 91%.
+
 • Utilized Python NLTK resources for text-processing and calculated polarity scores for word chunks using VADER
